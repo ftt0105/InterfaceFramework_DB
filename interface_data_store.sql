@@ -1,0 +1,2 @@
+INSERT INTO `interface_data_store` VALUES (1, 1, '{\'request\': {\'用户注册\': {1: {\'username\': \'zhangsan123\', \'password\': \'zhagn123zhagn\'}}}, \'response\': {\'用户注册\':{1:{\'code\':\'00\'}}}}', NULL);
+INSERT INTO `interface_data_store` VALUES (1, 2, '{\'1\':\'sadfad\'}', '2021-4-5 11:53:46');

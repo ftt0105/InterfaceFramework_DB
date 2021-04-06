@@ -1,0 +1,2 @@
+INSERT INTO `interface_test_case` VALUES (1, 1, '{\"username\":\"zhangsan123\",\"password\":\"zhagn123zhagn\",\"email\":\"zs@qq.com\"}', NULL, 200, '', '{\"request\":[\"username\",\"password\"]}', '{\"code\":\"00\"}', 1, '', NULL);
+INSERT INTO `interface_test_case` VALUES (2, 2, '{\"username\":\"lilydsd23\", \"password\":\"ssd32de2\"}', '{\"request\":{\"用户注册->1\":[\"username\",\"password\"]}}', 200, '', '', '{\"code\":\"00\"}', 1, '', NULL);
